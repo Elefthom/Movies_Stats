@@ -1,0 +1,2 @@
+[console_scripts]
+movies_stats = movies_stats:main

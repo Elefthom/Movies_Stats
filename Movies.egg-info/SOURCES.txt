@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+Movies.egg-info/PKG-INFO
+Movies.egg-info/SOURCES.txt
+Movies.egg-info/dependency_links.txt
+Movies.egg-info/entry_points.txt
+Movies.egg-info/requires.txt
+Movies.egg-info/top_level.txt
