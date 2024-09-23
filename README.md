@@ -16,12 +16,14 @@ This project processes a dataset of movies, providing various insights such as t
     ```
 
 2. Change directory where the repository is cloned and install the required dependencies:
-
+    ```
+    cd Movies_Stats
+    ```
     ```
     pip install -e .
     ```
 
-3. Run the analysis by creating a `Movies` using:
+4. Run the analysis using the command:
    ```
    python movies_stats.py
    ```
